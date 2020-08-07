@@ -1,1 +1,1 @@
-ini adalah file untuk jenkins project
+ini adalah file untuk jenkins project job
